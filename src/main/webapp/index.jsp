@@ -7,9 +7,9 @@
     </head>
     <body>
         <h1>Demo Project from Devops</h1>
-        <h1>Good day DEVOPS.....</h1>
-        <h1>Nice day AWS.....</h1>
-        <h1>.... DEVOPS.....</h1>
+        <h1>Good day Ryan.....</h1>
+        <h1>Nice day iLab.....</h1>
+        <h1>.... Jenkins Integration.....</h1>
 
 
 <table width="50%" bgcolor="pink" align="center" border="22">
